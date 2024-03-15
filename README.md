@@ -1,4 +1,5 @@
 # EXNO2DS
+# reg no :212221040179
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -23,7 +24,24 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+      import pandas as pd
+      import numpy as np
+      import matplotlib.pyplot as plt
+      import seaborn as sns
+      dt=pd.read_csv("/content/titanic_dataset.csv")
+      dt
+
+      ![screenshort1](https://github.com/NVikas1905/EXNO2DS/assets/133752491/66d7332d-8a1f-4b7b-9354-868d1a36dc57)
+      ![screenshort2](https://github.com/NVikas1905/EXNO2DS/assets/133752491/7c8d5cad-2632-492e-9d8b-ef23255567b1)
+      ![screenshort3](https://github.com/NVikas1905/EXNO2DS/assets/133752491/a0e47a60-4328-4a6e-a7e0-f5f1ef79a537)
+      ![screenshort4](https://github.com/NVikas1905/EXNO2DS/assets/133752491/18c8af77-34b0-4299-adaf-496090d4dcb3)
+      ![screenshort5](https://github.com/NVikas1905/EXNO2DS/assets/133752491/c8bc2c73-2312-4b47-9d41-60f039d64948)
+      ![screenshort6](https://github.com/NVikas1905/EXNO2DS/assets/133752491/fd4987c4-4a09-4383-801a-1c409a0c2420)
+      ![screenshort7](https://github.com/NVikas1905/EXNO2DS/assets/133752491/5100f920-21ad-47b0-a424-5ded6a87fd46)
+      ![screenshort8](https://github.com/NVikas1905/EXNO2DS/assets/133752491/dd30923f-eba9-4c1c-8464-9e182b5fbc25)
+      ![screenshort9](https://github.com/NVikas1905/EXNO2DS/assets/133752491/ee1bf46c-989b-461a-b670-9f38c5a44c3e)
+      ![screenshort10](https://github.com/NVikas1905/EXNO2DS/assets/133752491/e976aee6-9ac4-4bff-9af5-e7c8ccbc9654)
+
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
