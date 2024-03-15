@@ -31,10 +31,10 @@ STEP 8: Use heatmap method of representation to show relationships between two v
       dt=pd.read_csv("/content/titanic_dataset.csv")
       dt
 
-      ![screenshort1](https://github.com/NVikas1905/EXNO2DS/assets/133752491/66d7332d-8a1f-4b7b-9354-868d1a36dc57)
-      ![screenshort2](https://github.com/NVikas1905/EXNO2DS/assets/133752491/7c8d5cad-2632-492e-9d8b-ef23255567b1)
-      ![screenshort3](https://github.com/NVikas1905/EXNO2DS/assets/133752491/a0e47a60-4328-4a6e-a7e0-f5f1ef79a537)
-      ![screenshort4](https://github.com/NVikas1905/EXNO2DS/assets/133752491/18c8af77-34b0-4299-adaf-496090d4dcb3)
+![screenshort1](https://github.com/NVikas1905/EXNO2DS/assets/133752491/66d7332d-8a1f-4b7b-9354-868d1a36dc57)
+![screenshort2](https://github.com/NVikas1905/EXNO2DS/assets/133752491/7c8d5cad-2632-492e-9d8b-ef23255567b1)
+![screenshort3](https://github.com/NVikas1905/EXNO2DS/assets/133752491/a0e47a60-4328-4a6e-a7e0-f5f1ef79a537)
+![screenshort4](https://github.com/NVikas1905/EXNO2DS/assets/133752491/18c8af77-34b0-4299-adaf-496090d4dcb3)
       ![screenshort5](https://github.com/NVikas1905/EXNO2DS/assets/133752491/c8bc2c73-2312-4b47-9d41-60f039d64948)
       ![screenshort6](https://github.com/NVikas1905/EXNO2DS/assets/133752491/fd4987c4-4a09-4383-801a-1c409a0c2420)
       ![screenshort7](https://github.com/NVikas1905/EXNO2DS/assets/133752491/5100f920-21ad-47b0-a424-5ded6a87fd46)
